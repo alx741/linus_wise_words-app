@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Linus\'s wise words of the day</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format"></string>
+
+    <string-array name="list">
+
+        <item>I\'m not allowed to pick it up so... I\'m just
+            going to pick it up</item>
+
+        <item>That\'s bolted to the table, but it doesn\'t mean I won\'t
+            try</item>
+
+        <item>I\'m gonna hold it by a tiny corner as I possible can</item>
+
+        <item>I\'m not supposed to do this...</item>
+
+        <item>...couse I am a genius</item>
+
+        <item>usually I screw up</item>
+
+
+    </string-array>
+
+</resources>
